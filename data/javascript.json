@@ -1,0 +1,36 @@
+{
+  "name": "language",
+  "children": [
+    {
+      "name": "grammar",
+      "children": [
+        {"name": "introduction"},
+        {"name":  "grammar and types"},
+        {"name":  "control flow and error handling"},
+        {"name":  "loops and iteration"},
+        {"name":  "functions"},
+        {"name":  "expressions and operators"},
+        {"name":  "numbers and dates"},
+        {"name":  "text formatting"},
+        {"name":  "regular expressions"},
+        {"name":  "indexed collections"},
+        {"name":  "keyed collections"},
+        {"name":  "working with objects"},
+        {"name":  "details of object model"},
+        {"name":  "using promises"},
+        {"name":  "iterators and generators"},
+        {"name":  "meta programming"}
+      ]
+    },{
+      "name": "intermediate concepts",
+      "children": [
+        {"name":  "introducing javascript objects"},
+        {"name":  "client-side web apis"},
+        {"name":  "a re-introduction of javascript"},
+        {"name":  "javascript data structures"},
+        {"name":  "equality comparisons and sameness"},
+        {"name":  "closures"}
+      ]
+    }
+  ]
+}
